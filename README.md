@@ -2,7 +2,7 @@
 
 # Project file
 
-GitHub Reppo: https://github.com/vntuananhbui/Team7-Programming1-ContainerPortManagement
+GitHub Reppo: https://github.com/ngckhanh/Java-Programming1-ContainerPortManagement.git
 <br />
 UML DRIAGRAM: [https://drive.google.com/file/d/1XQal3Jv4b2wrsqM0Hp8xhQUr6fKyB86r/view?usp=sharing]
 <br />
